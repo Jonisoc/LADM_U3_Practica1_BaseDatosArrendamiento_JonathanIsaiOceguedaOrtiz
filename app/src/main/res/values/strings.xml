@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LADM_U3_Practica1_BaseDatosArrendamiento_JonathanIsaiOceguedaOrtiz</string>
+    <string name="title_home">Automovil</string>
+    <string name="title_dashboard">Arrendamiento</string>
+    <string name="title_notifications">Datos</string>
+</resources>
